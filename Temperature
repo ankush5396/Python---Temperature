@@ -1,0 +1,4 @@
+a = float(input("Enter the temperature in degree = "))
+print("Temperature in degree = ", a)
+F = (9/5 * a) + 32
+print("Temperature in Fahrenheit = ", F)
